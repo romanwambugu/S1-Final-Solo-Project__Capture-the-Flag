@@ -1,1 +1,13 @@
-# MiniGame__Capture-the-Flag
+# MiniGame - Capture the Flag
+
+Purpose:
+- ...
+
+Group:
+- Individual Project
+
+## Introduction
+...
+
+## How to Play
+...
