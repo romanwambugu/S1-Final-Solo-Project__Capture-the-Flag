@@ -1,4 +1,4 @@
-# MiniGame - Capture the Flag
+# Capture the Flag Game
 
 Purpose:
 - ...
